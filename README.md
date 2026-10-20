@@ -18,9 +18,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,fastapi,postgres,java,python,docker,linux,git&perline=7" alt="Tech Stack" />
 </p>
 
-- **Web Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Astro
-- **Web Backend:** Node.js, FastAPI, Python, REST APIs, Supabase, PostgreSQL / SQL
-- **Minecraft & Systems:** Java (17/21), PaperMC, Folia, LuckPerms API, ProtocolLib
+- **Languages:** Java (17/21), Python, TypeScript, JavaScript, SQL, Bash
+- **Web Frontend:** HTML5, CSS3, React, Astro, Responsive Design
+- **Web Backend:** Node.js, FastAPI, REST APIs, Supabase, PostgreSQL
+- **Minecraft:** PaperMC, Folia, Purpur, LuckPerms API, MiniMessage, ProtocolLib
 - **DevOps & Tools:** Linux, Docker, Maven, Git
 
 ---
