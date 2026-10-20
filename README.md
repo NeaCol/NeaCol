@@ -2,7 +2,7 @@
 
 # NeaCol
 
-**Developer • Minecraft Server Infrastructure (Paper / Folia) • Python & Systems**
+**Full-Stack Web Developer (Frontend & Backend) • Minecraft Server Infrastructure (Paper / Folia) • Systems**
 
 [![GitHub Followers](https://img.shields.io/github/followers/NeaCol?label=Follow&style=flat-square)](https://github.com/NeaCol)
 [![Modrinth](https://img.shields.io/badge/Modrinth-NeaCommand-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/neacommand)
@@ -15,12 +15,13 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,postgres,docker,linux,git,github,maven&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,fastapi,postgres,java,python,docker,linux,git&perline=7" alt="Tech Stack" />
 </p>
 
-- **Languages:** Java, Python, TypeScript, SQL, Bash
-- **Minecraft:** PaperMC, Folia, Purpur, LuckPerms API, MiniMessage, ProtocolLib
-- **Tools & Environments:** Linux, Docker, Maven, Git, FastAPI
+- **Web Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Astro
+- **Web Backend:** Node.js, FastAPI, Python, REST APIs, Supabase, PostgreSQL / SQL
+- **Minecraft & Systems:** Java (17/21), PaperMC, Folia, LuckPerms API, ProtocolLib
+- **DevOps & Tools:** Linux, Docker, Maven, Git
 
 ---
 
