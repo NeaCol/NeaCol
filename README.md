@@ -15,7 +15,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,fastapi,postgres,java,python,docker,linux,git&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,python,ts,js,html,css,react,astro,nodejs,fastapi,postgres,mysql,kali,linux,bash,docker,git&perline=10" alt="Tech Stack" />
 </p>
 
 - **Languages:** Java (17/21), Kotlin, Python, TypeScript, JavaScript, SQL, Bash
