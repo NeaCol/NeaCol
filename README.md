@@ -2,13 +2,9 @@
 
 # NeaCol
 
-**Cybersecurity & AppSec • Native Android Engineering (Kotlin / Compose) • High-Concurrency Distributed Systems • Full-Stack Web**
+**Full-Stack Web Developer (Frontend & Backend) • Minecraft Server Infrastructure (Paper / Folia) • Android & Systems**
 
 [![GitHub Followers](https://img.shields.io/github/followers/NeaCol?label=Follow&style=flat-square)](https://github.com/NeaCol)
-[![Android Development](https://img.shields.io/badge/Mobile-Android%20%7C%20Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
-[![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Kali Linux](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Security Focus](https://img.shields.io/badge/Focus-AppSec%20%7C%20NetSec-critical?style=flat-square&logo=securityscorecard&logoColor=white)](https://github.com/NeaCol)
 [![Modrinth](https://img.shields.io/badge/Modrinth-NeaCommand-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/neacommand)
 [![Email](https://img.shields.io/badge/Contact-milansanchz%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milansanchz@gmail.com)
 
@@ -16,45 +12,22 @@
 
 ---
 
-### Tech Stack & Security Tooling
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,kali,linux,bash,python,ts,js,react,astro,nodejs,fastapi,postgres,mysql,docker,git&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,fastapi,postgres,java,python,docker,linux,git&perline=7" alt="Tech Stack" />
 </p>
 
-- **Mobile & Native Android Ecosystem:** Kotlin, Android SDK (API 26–35), Jetpack Compose, Material Design 3, Coroutines, Flow, Android Studio, Gradle (Kotlin DSL / KTS), Room DB, Retrofit, Ktor Client, Hilt, Koin, WorkManager.
-- **Mobile AppSec & Reverse Engineering:** R8 / ProGuard bytecode obfuscation, Android KeyStore hardware cryptography, Biometric authentication, Root/Jailbreak detection, Certificate Pinning, APK static & dynamic analysis (JADX, APKTool, Frida).
-- **Cybersecurity & Network Security:** Kali Linux, Wireshark, Packet Dissection (L2–L7), Vulnerability Assessment, Network Forensics, Defensive Penetration Testing, AppSec Auditing, Stateless JWT Security.
-- **Core Languages:** Kotlin, Java (21 LTS / 17), Python (3.10+), TypeScript, JavaScript, SQL, Bash.
-- **Server Systems & High Concurrency:** PaperMC, Folia, Purpur, Asynchronous Non-blocking Concurrency, HikariCP Connection Pooling, ProtocolLib, Adventure MiniMessage.
-- **Web & Cloud Services:** React, Astro, Node.js, FastAPI, PostgreSQL, Supabase, Docker, RESTful Microservices.
+- **Languages:** Java (17/21), Kotlin, Python, TypeScript, JavaScript, SQL, Bash
+- **Web Frontend:** HTML5, CSS3, React, Astro, Responsive Design
+- **Web Backend:** Node.js, FastAPI, REST APIs, Supabase, PostgreSQL
+- **Minecraft:** PaperMC, Folia, Purpur, LuckPerms API, MiniMessage, ProtocolLib
+- **Android & Mobile:** Kotlin, Jetpack Compose, Android SDK, Clean Architecture / MVVM, Room DB, Retrofit
+- **Security & Tools:** Linux (Kali / Debian / Ubuntu), Wireshark, Docker, Maven, Gradle, Git
 
 ---
 
-### 📱 Android Engineering & Mobile Architecture
-
-Modern, reactive Android app engineering built with Google's Clean Architecture & Modern Android Development (MAD) principles:
-
-- **Declarative UI System:** 100% declarative interfaces built with **Jetpack Compose** and **Material Design 3**, utilizing dynamic theming, custom UI components, smooth physics animations, and strict state hoisting.
-- **Clean Architecture & MVI/MVVM:** Robust decoupling across `Presentation`, `Domain`, and `Data` layers with unidirectional data flow (UDF) and Single Source of Truth (SSOT).
-- **Reactive Asynchronous Pipelines:** Kotlin **Coroutines** combined with **StateFlow** and **SharedFlow** for seamless, non-blocking asynchronous event dispatching and UI-state binding.
-- **Offline-First Persistence & Caching:** Local caching with **Room ORM** and SQLite, reactive preferences with **Jetpack DataStore**, and resilient networking via **Ktor Client** or **Retrofit** with exponential backoff retry interceptors.
-- **Dependency Injection & Modularization:** Scalable dependency inversion via **Hilt (Dagger)** or **Koin** supporting multi-module Gradle project architectures (`:feature`, `:core:database`, `:core:network`).
-- **Background Orchestration:** Battery-efficient background sync, periodic jobs, and deferrable tasks using **WorkManager** and Foreground Services.
-- **Mobile AppSec Hardening:** Secure cryptographic key management via hardware-backed **Android KeyStore**, tamper detection, SSL/TLS Certificate Pinning via OkHttp network security configs, and proactive vulnerability scanning using Kali Linux and bytecode decompilers.
-
----
-
-### 🛡️ Security & Engineering Philosophy
-
-- **Zero-Trust Input Sanitization:** Protection against format string injections, command injection, and parameter tampering at every client, mobile, and server boundary.
-- **Asynchronous Architecture:** Non-blocking thread design, persistent connection pooling, and resilient rate-limiting engines designed for high-concurrency production workloads.
-- **Mobile Integrity & Anti-Reverse:** Defensive bytecode shrinking, obfuscation strategies with ProGuard/R8, and cryptographic signing verification to maintain application authenticity.
-- **Continuous Defensive Auditing:** Continuous auditing of network traffic, REST endpoints, and protocol packets using Kali Linux toolsets, Wireshark, and automated test suites.
-
----
-
-### Featured Projects
+### Projects
 
 <table>
   <tr>
@@ -63,13 +36,13 @@ Modern, reactive Android app engineering built with Google's Clean Architecture 
       <p>Network diagnostic tool and topology visualizer. Packet dissection (L2–L7), RFC-compliant DNS benchmarking, latency/jitter analysis, and local web dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Kali%20Linux-Verified-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Networking-Diagnostic-informational?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/NeaCol/NeaCommand">NeaCommand</a></h3>
-      <p>Security whitelist and tab-completion filtering engine for Paper & Folia networks. LuckPerms group inheritance, strict namespace quarantine, and audit logging.</p>
+      <p>Command whitelist and tab-completion filtering for Paper and Folia servers. Integrates directly with LuckPerms group inheritance and packet-level command blocking.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-21-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Paper%20%2F%20Folia-1.20%2B-1e87f0?style=flat-square" />
@@ -83,7 +56,7 @@ Modern, reactive Android app engineering built with Google's Clean Architecture 
       <p>Enterprise punishment suite with proxy synchronization (Velocity/Bungee), embedded REST API, JWT stateless auth, and HikariCP connection pooling.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-21-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/AppSec-JWT%20Secured-005571?style=flat-square" />
+        <img src="https://img.shields.io/badge/Paper%20%2F%20Velocity-Supported-1e87f0?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
