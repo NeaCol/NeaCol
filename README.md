@@ -2,9 +2,11 @@
 
 # NeaCol
 
-**Full-Stack Web Developer (Frontend & Backend) • Minecraft Server Infrastructure (Paper / Folia) • Systems**
+**Cybersecurity & AppSec • High-Concurrency Systems (Paper / Folia) • Full-Stack Web Architecture**
 
 [![GitHub Followers](https://img.shields.io/github/followers/NeaCol?label=Follow&style=flat-square)](https://github.com/NeaCol)
+[![Kali Linux](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Security Focus](https://img.shields.io/badge/Focus-AppSec%20%7C%20NetSec-critical?style=flat-square&logo=securityscorecard&logoColor=white)](https://github.com/NeaCol)
 [![Modrinth](https://img.shields.io/badge/Modrinth-NeaCommand-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/neacommand)
 [![Email](https://img.shields.io/badge/Contact-milansanchz%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milansanchz@gmail.com)
 
@@ -12,21 +14,20 @@
 
 ---
 
-### Tech Stack
+### Tech Stack & Security Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,fastapi,postgres,java,python,docker,linux,git&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,java,python,ts,js,react,astro,nodejs,fastapi,postgres,mysql,docker&perline=7" alt="Tech Stack" />
 </p>
 
-- **Languages:** Java (17/21), Python, TypeScript, JavaScript, SQL, Bash
-- **Web Frontend:** HTML5, CSS3, React, Astro, Responsive Design
-- **Web Backend:** Node.js, FastAPI, REST APIs, Supabase, PostgreSQL
-- **Minecraft:** PaperMC, Folia, Purpur, LuckPerms API, MiniMessage, ProtocolLib
-- **DevOps & Tools:** Linux, Docker, Maven, Git
+- **Cybersecurity & Networking:** Kali Linux, Wireshark, Packet Dissection (L2–L7), Network Forensics, Penetration Testing, AppSec Auditing
+- **Core Languages:** Java (21 LTS / 17), Python, TypeScript, JavaScript, SQL, Bash scripting
+- **Systems & Architecture:** PaperMC, Folia, Purpur, Asynchronous Concurrency, HikariCP, ProtocolLib, Adventure MiniMessage
+- **Web & Cloud Services:** React, Astro, Node.js, FastAPI, PostgreSQL, Supabase, Docker, RESTful APIs
 
 ---
 
-### Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -35,12 +36,13 @@
       <p>Network diagnostic tool and topology visualizer. Packet dissection (L2–L7), RFC-compliant DNS benchmarking, latency/jitter analysis, and local web dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Kali%20Linux-Verified-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
         <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/NeaCol/NeaCommand">NeaCommand</a></h3>
-      <p>Command whitelist and tab-completion filtering for Paper and Folia servers. Integrates directly with LuckPerms group inheritance and packet-level command blocking.</p>
+      <p>Security whitelist and tab-completion filtering engine for Paper & Folia networks. LuckPerms group inheritance, strict namespace quarantine, and audit logging.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-21-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Paper%20%2F%20Folia-1.20%2B-1e87f0?style=flat-square" />
@@ -50,20 +52,41 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/NeaCol/NeaBans">NeaBans</a></h3>
+      <p>Enterprise punishment suite with proxy synchronization (Velocity/Bungee), embedded REST API, JWT stateless auth, and HikariCP connection pooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-21-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/AppSec-JWT%20Secured-005571?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/NeaCol/NeaWelcomer">NeaWelcomer</a></h3>
+      <p>High-performance player connection engine for Paper 1.21.1. Anti-injection TagResolver sanitization, async I/O player tracking, and Adventure MiniMessage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-21-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Adventure-MiniMessage-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/NeaCol/NeaBows">NeaBows</a></h3>
+      <p>Elemental projectile framework and custom weaponry system. 8 elemental disciplines, 3-tiered mechanics, PDC binary metadata serialization, and ray-tracing particles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-21-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bukkit-PDC-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
       <h3><a href="https://github.com/NeaCol/NeaFutbol">NeaFutbol</a></h3>
-      <p>Football minigame plugin for Paper 1.21. Custom ball physics, goal detection, team spawns, and real-time holographic scoreboards.</p>
+      <p>Minigame physics engine for Paper 1.21. Custom ball vectors, entity collision detection, team spawns, and real-time holographic scoreboards.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-17%2F21-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Minecraft-1.21-1e87f0?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/NeaCol/NeaDev">NeaDev</a></h3>
-      <p>Web applications and services exploration using Astro, TypeScript, and Supabase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" />
       </p>
     </td>
   </tr>
