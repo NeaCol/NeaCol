@@ -17,13 +17,21 @@
 ### Tech Stack & Security Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,java,python,ts,js,react,astro,nodejs,fastapi,postgres,mysql,docker&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,java,python,ts,js,react,astro,nodejs,fastapi,postgres,mysql,docker,git&perline=8" alt="Tech Stack" />
 </p>
 
-- **Cybersecurity & Networking:** Kali Linux, Wireshark, Packet Dissection (L2–L7), Network Forensics, Penetration Testing, AppSec Auditing
-- **Core Languages:** Java (21 LTS / 17), Python, TypeScript, JavaScript, SQL, Bash scripting
-- **Systems & Architecture:** PaperMC, Folia, Purpur, Asynchronous Concurrency, HikariCP, ProtocolLib, Adventure MiniMessage
-- **Web & Cloud Services:** React, Astro, Node.js, FastAPI, PostgreSQL, Supabase, Docker, RESTful APIs
+- **Cybersecurity & NetSec:** Kali Linux, Wireshark, Packet Analysis (L2–L7), Vulnerability Assessment, AppSec Auditing, JWT Security
+- **Core Languages:** Java (21 LTS / 17), Python (3.10+), TypeScript, JavaScript, SQL, Bash
+- **Server Systems & Concurrency:** PaperMC, Folia, Purpur, Asynchronous Concurrency, HikariCP, ProtocolLib, Adventure MiniMessage
+- **Web & Cloud Services:** React, Astro, Node.js, FastAPI, PostgreSQL, Supabase, Docker, RESTful Microservices
+
+---
+
+### Security & Engineering Philosophy
+
+- **Zero-Trust Input Sanitization:** Protection against format string injections, command injection, and parameter tampering at every boundary.
+- **Asynchronous Architecture:** Non-blocking thread design, persistent connection pooling, and resilient rate-limiting engines designed for high-concurrency production workloads.
+- **Defensive Auditing:** Continuous auditing of network traffic and protocol endpoints using Kali Linux toolsets and automated test suites.
 
 ---
 
