@@ -36,7 +36,7 @@
       <p>Network diagnostic tool and topology visualizer. Packet dissection (L2–L7), RFC-compliant DNS benchmarking, latency/jitter analysis, and local web dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Networking-Diagnostic-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tests-54%20Passing-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
@@ -82,11 +82,11 @@
     </td>
     <td width="50%">
       <h3><a href="https://github.com/NeaCol/NeaFutbol">NeaFutbol</a></h3>
-      <p>Minigame physics engine for Paper 1.21. Custom ball vectors, entity collision detection, team spawns, and real-time holographic scoreboards.</p>
+      <p>Minigame physics engine for Paper 1.21. Dual-armorstand kinematics, raycast hitbox detection, team spawns, and real-time holographic scoreboards.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-17%2F21-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-21-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Minecraft-1.21-1e87f0?style=flat-square" />
-        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
   </tr>
